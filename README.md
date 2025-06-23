@@ -29,30 +29,7 @@ A web-based **Lost and Found platform** built using the **MERN stack (MongoDB, E
 
 ---
 
-## 🗂️ Project Structure
 
-Lost and Found MERN/
-├── backend/
-│ ├── server.js
-│ ├── routes/
-│ └── models/
-├── frontend/
-│ ├── public/
-│ │ └── index.html
-│ ├── src/
-│ │ ├── components/
-│ │ │ └── Navbar.js
-│ │ ├── App.js
-│ │ ├── App.css
-│ │ └── index.js
-├── .gitignore
-└── README.md
-
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 Getting Started Locally
 
